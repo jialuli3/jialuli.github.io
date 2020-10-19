@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "I am a fourth year PhD student at the Electrical and Computer Engineering department at University of Illinois at Urbana-Champaign (UIUC). I am working with Professor Mark Hasegawa-Johnson at the Statistical Speech Technology Group. I earned my bachelor degree in Electrical Engineering with the Highest Honors in UIUC.\n I am passionate about machine learning. My research areas focus on automatic speech recognition (ASR) for low-resourced languages, infant speech emotion recognition, and interpretability of neural-networks based model."
+url                      : https://jialuli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "jialuli3/jialuli.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
